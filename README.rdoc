@@ -1,3 +1,0 @@
-== Sample App
-* This is a sample application developed as part of the {One Month Rails}[https://onemonth.com/courses/one-month-rails] course.
-
