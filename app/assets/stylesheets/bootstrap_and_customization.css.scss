@@ -5,7 +5,14 @@ $navbar-inverse-link-color: black;
 $navbar-inverse-brand-color: #2ecc71;
 $brand-primary: #2ecc71;
 $jumbotron-bg: white;
-
+$state-success-bg: white;
+$state-info-bg: white;
+$state-warning-bg: white;
+$state-danger-bg: white;
+$state-success-text: black;
+$state-info-text: black;
+$state-warning-text: black;
+$state-danger-text: black;
 @import 'bootstrap';
 
 .center {
