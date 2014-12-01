@@ -1,6 +1,17 @@
 $body-bg: #2ecc71;
+$font-family-sans-serif: Helvetica, Arial, sans-serif;
 $navbar-inverse-bg: white;
 $navbar-inverse-link-color: black;
+$navbar-inverse-brand-color: #2ecc71;
 $brand-primary: #2ecc71;
 $jumbotron-bg: white;
+
 @import 'bootstrap';
+
+.center {
+     text-align: center;
+}
+
+.navbar-brand {
+     font-weight: bold;
+}
